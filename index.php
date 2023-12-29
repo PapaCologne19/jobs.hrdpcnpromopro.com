@@ -83,8 +83,8 @@
         <div class="icons">
       <a href="https://www.facebook.com/PCNPromopro" target="_blank" class="fa bi bi-facebook"></a>
       <a href="https://www.tiktok.com/@tipstoktv" target="_blank" class="fa bi bi-tiktok"></a>
-      <a href="#" class="fa fa-twitter"></a>
-      <a href="#" class="fa fa-google"></a>
+      <a href="https://pcnpromopro.com/" target="_blank" class="fa bi bi-globe2"></a>
+      <a href="mailto:jobs@hrdpcnpromopro.com" target="_blank" class="fa bi bi-envelope-at"></a>
       </div>
       </div>
     </div>
@@ -278,10 +278,10 @@
             <span>SOCIAL MEDIA</span>
             <p style="color: #fff !important; font-family: 'Inter', san-serif !important;">Follow us</p>
 
-            <a href="https://www.facebook.com/PCNPromopro" target="_blank" class="fa fa-facebook-square" style="color: #fff !important;"></a>
-            <a href="#" target="_blank" class="fa fa-instagram" style="color: #fff !important;"></a>
-            <a href="#" target="_blank" class="fa fa-twitter" style="color: #fff !important;"></a>
-            <a href="mailto:DummyEmail@gmail.com" target="_blank" class="fa fa-google" style="color: #fff !important;"></a>
+            <a href="https://www.facebook.com/PCNPromopro" target="_blank" class="fa bi bi-facebook text-white"></a>
+            <a href="https://www.tiktok.com/@tipstoktv" target="_blank" class="fa bi bi-tiktok text-white"></a>
+            <a href="https://pcnpromopro.com/" target="_blank" class="fa bi bi-globe2 text-white"></a>
+            <a href="mailto:jobs@hrdpcnpromopro.com" target="_blank" class="fa bi bi-envelope-at text-white"></a>
           </ul>
         </div>
 

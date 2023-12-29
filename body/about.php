@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="../assets/fontawesome/css/brands.css">
     <link rel="stylesheet" href="../assets/fontawesome/css/solid.css">
     <script src="https://kit.fontawesome.com/f63d53b14e.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -271,10 +272,10 @@
                         <span>SOCIAL MEDIA</span>
                         <p style="color: #fff !important;">Follow us</p>
 
-                        <a href="https://www.facebook.com/PCNPromopro" class="fa fa-facebook-square" style="color: #fff !important;"></a>
-                        <a href="#" class="fa fa-instagram" style="color: #fff !important;"></a>
-                        <a href="#" class="fa fa-twitter" style="color: #fff !important;"></a>
-                        <a href="mailto:DummyEmail@gmail.com" class="fa fa-google" style="color: #fff !important;"></a>
+                            <a href="https://www.facebook.com/PCNPromopro" target="_blank" class="fa bi bi-facebook text-white"></a>
+                          <a href="https://www.tiktok.com/@tipstoktv" target="_blank" class="fa bi bi-tiktok text-white"></a>
+                          <a href="https://pcnpromopro.com/" target="_blank" class="fa bi bi-globe2 text-white"></a>
+                          <a href="mailto:jobs@hrdpcnpromopro.com" target="_blank" class="fa bi bi-envelope-at text-white"></a>
                     </ul>
                 </div>
 

@@ -231,7 +231,7 @@ html, body{
   width: 100vw;
   margin-top: 10rem;
   margin-left: 13rem;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Jamesphilip Bold', sans-serif;
 } 
 
 .contact-text h1{
@@ -640,6 +640,8 @@ html, body{
   }
   .elementor-icon-list-items{
     left: 0;
+    text-align: center;
+    list-style: none;
   }
   .elementor-icon-list-text{
     font-size: 14px;
@@ -701,8 +703,8 @@ html, body{
     align-items: center;
   }
   .contact-text{
-    width: 50%;
     justify-content: center;
+    text-align: center;
     margin-left: 0;
   }
   .contact-text h1{

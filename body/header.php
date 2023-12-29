@@ -52,10 +52,10 @@
 
       <div class="d-flex justify-content-end py-4" id="icons" style="width: 100%;">
         <div class="icons">
-          <a href="#" target="_blank" class="fa fa-facebook-square"></a>
-          <a href="#" target="_blank" class="fa fa-instagram"></a>
-          <a href="#" target="_blank" class="fa fa-twitter"></a>
-          <a href="#" target="_blank" class="fa fa-google"></a>
+          <a href="https://www.facebook.com/PCNPromopro" target="_blank" class="fa bi bi-facebook text-black"></a>
+          <a href="https://www.tiktok.com/@tipstoktv" target="_blank" class="fa bi bi-tiktok text-black"></a>
+          <a href="https://pcnpromopro.com/" target="_blank" class="fa bi bi-globe2 text-black"></a>
+          <a href="mailto:jobs@hrdpcnpromopro.com" target="_blank" class="fa bi bi-envelope-at text-black"></a>
         </div>
       </div>
     </div>

@@ -290,7 +290,7 @@ if (isset($_SESSION['username'], $_SESSION['password'])) {
                     <button class="nav-link" data-bs-toggle="tab" data-bs-target="#profile-change-password">Change Password</button>
                   </li>
                   <li class="nav-item">
-                    <button class="nav-link" data-bs-toggle="tab" data-bs-target="#profile-requirements">Submit Requirements</button>
+                    <button class="nav-link" data-bs-toggle="tab" data-bs-target="#profile-requirements" style="text-align: left;">Submit Requirements</button>
                   </li>
                   <li class="nav-item">
                     <button class="nav-link" data-bs-toggle="tab" data-bs-target="#profile-loa">LOA</button>
