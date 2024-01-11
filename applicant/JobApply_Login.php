@@ -168,16 +168,16 @@ $errors = array();
                                         <form class="row g-3 needs-validation" novalidate method="post" action="action.php">
                                             <input type="hidden" name="job_id" value="<?php echo $row['id']; ?>">
                                             <div class="form-floating mb-7">
-                                                <input type="text" class="form-control" name="username" id="floatingInput" placeholder="Username" style="border-top: none; border-left: none; border-right: none; border-bottom: 1px solid #000 !important; box-shadow: none !important; font-family: 'Poppins', sans-serif;" required>
-                                                <label for="floatingInput" style="font-family: 'Poppins', sans-serif !important;">Username</label>
+                                                <input type="text" class="form-control" name="username" id="floatingInput" placeholder="Username" style="border-top: none; border-left: none; border-right: none; border-bottom: 1px solid #a19eab !important; border-radius: 0; box-shadow: none !important; font-family: 'Poppins', sans-serif;" required>
+                                                <label for="floatingInput" style="font-family: 'Poppins', sans-serif !important; color: #a19eab;">Username</label>
                                                 <div class="invalid-feedback">
                                                     Please enter a Username
                                                 </div>
                                             </div>
 
                                             <div class="form-floating">
-                                                <input type="password" class="form-control" name="password" id="floatingPassword" placeholder="Password" style="background-color: inherit; border-top: none; border-left: none; border-right: none; border-bottom: 1px solid #000 !important; box-shadow: none !important; font-family: 'Poppins', sans-serif !important;" required>
-                                                <label for="floatingPassword" style="font-family: 'Poppins', sans-serif !important;">Password</label>
+                                                <input type="password" class="form-control" name="password" id="floatingPassword" placeholder="Password" style="background-color: inherit; border-top: none; border-left: none; border-right: none; border-bottom: 1px solid #a19eab !important; border-radius: 0; box-shadow: none !important; font-family: 'Poppins', sans-serif !important;" required>
+                                                <label for="floatingPassword" style="font-family: 'Poppins', sans-serif !important; color: #a19eab;">Password</label>
                                                 <div class="invalid-feedback">
                                                     Please enter a Password.
                                                 </div>
@@ -188,13 +188,13 @@ $errors = array();
                                             </div>
                                             <div class="col-12">
                                                 <br>
-                                                <!-- <p class="small mb-0" style="text-align: left !important;"><a href="javascript:void(0)" onclick="openPopup()" style="color: #000;">Forgot Password?</a></p> -->
+                                                <p class="small mb-0" style="text-align: left !important;"><a href="javascript:void(0)" onclick="openPopup()" style="color: #a19eab;">Forgot Password?</a></p>
                                             </div>
                                             <div class="col-12">
-                                                <button class="btn w-100 login_button" type="submit" name="login" style="border:1px solid #279EFF; box-shadow: none; border-radius: 10px; padding: .5rem; font-size: 1.2rem !important;">Login</button>
+                                                <button class="btn w-100 login_button" type="submit" name="login" style="border:1px solid #279EFF; box-shadow: none; border-radius: 10px; padding: .5rem; font-size: 1.2rem !important;">Log in</button>
                                             </div>
                                             <div class="col-12">
-                                                <p class="small mb-0" style="text-align: center !important; color: #000000;"><a href="javascript:void(0)" onclick="openRegisterPopup()" style="color: #0079FF;">Create an account</a></p>
+                                                <p class="small mb-0" style="text-align: center !important; color: #a19eab;"><a href="javascript:void(0)" onclick="openRegisterPopup()" style="color: #0079FF;">Create an account</a></p>
                                             </div>
                                             <br><br>
                                             <div class="col-12">

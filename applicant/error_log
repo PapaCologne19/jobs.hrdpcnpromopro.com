@@ -6536,3 +6536,14 @@ Stack trace:
 [22-Dec-2023 08:12:50 UTC] PHP Notice:  Undefined index: id in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/get_notification.php on line 4
 [22-Dec-2023 08:37:46 UTC] PHP Notice:  Undefined index: id in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/get_notification.php on line 4
 [22-Dec-2023 08:37:47 UTC] PHP Notice:  Undefined index: id in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/get_notification.php on line 4
+[01-Jan-2024 15:12:43 Asia/Manila] PHP Warning:  mkdir(): File exists in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/action.php on line 207
+[01-Jan-2024 15:12:43 Asia/Manila] PHP Warning:  mkdir(): File exists in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/action.php on line 214
+[01-Jan-2024 15:14:47 Asia/Manila] PHP Warning:  mime_content_type(): Empty filename or path in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/action.php on line 130
+[01-Jan-2024 15:15:33 Asia/Manila] PHP Warning:  mkdir(): File exists in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/action.php on line 207
+[01-Jan-2024 15:15:33 Asia/Manila] PHP Warning:  mkdir(): File exists in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/action.php on line 214
+[09-Jan-2024 14:24:23 Asia/Manila] PHP Warning:  mkdir(): File exists in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/action.php on line 207
+[09-Jan-2024 14:24:23 Asia/Manila] PHP Warning:  mkdir(): File exists in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/action.php on line 214
+[11-Jan-2024 05:34:13 UTC] PHP Notice:  Undefined index: id in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/get_notification.php on line 4
+[11-Jan-2024 05:34:13 UTC] PHP Notice:  Undefined index: id in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/get_notification.php on line 4
+[11-Jan-2024 13:39:26 Asia/Manila] PHP Warning:  mkdir(): File exists in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/action.php on line 207
+[11-Jan-2024 13:39:26 Asia/Manila] PHP Warning:  mkdir(): File exists in /home/pcnpromopro/jobs.hrdpcnpromopro.com/applicant/action.php on line 214

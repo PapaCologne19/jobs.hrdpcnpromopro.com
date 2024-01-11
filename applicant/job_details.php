@@ -23,6 +23,9 @@
      <link rel="stylesheet" href="../assets/fontawesome/css/brands.css">
      <link rel="stylesheet" href="../assets/fontawesome/css/solid.css">
      <script src="https://kit.fontawesome.com/f63d53b14e.js" crossorigin="anonymous"></script>
+     
+     <!-- Bootstrap Icon -->
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
 
      <!-- Fonts -->
      <link rel="preconnect" href="https://fonts.googleapis.com">

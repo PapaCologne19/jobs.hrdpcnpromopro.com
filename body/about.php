@@ -281,7 +281,7 @@
 
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" id="footer_links">
                     <div class="footer_credit small mb-0" style="text-align: center;">
-                        <p style="color: #ADADAD !important; font-family: 'Inter', san-serif !important;">Copyright &copy; 2023. All rights Reserved.</p>
+                        <p style="color: #ADADAD !important; font-family: 'Inter', san-serif !important;">Copyright &copy; <?php echo date('Y')?>. All rights Reserved.</p>
                     </div>
                 </div>
             </div>

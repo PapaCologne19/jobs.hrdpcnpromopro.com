@@ -103,7 +103,7 @@
 
           <ul>
             <li>
-              <a href="job/search_job.php" id="home-button">Apply Now</a>
+              <button class="btns" onclick="location.href= 'job/search_job.php'" id="home-button">Apply Now</button>
             </li>
           </ul>
           
@@ -112,7 +112,7 @@
 
         <div class="home-image">
           <div class="row justify-content-end" style="width: 100vh;"></div>
-          <img src="img/Code review-cuate.svg" width="40%" class="rounded" alt="..." id="img">
+          <img src="img/Resume folder-pana.svg" width="40%" class="rounded" alt="..." id="img">
         </div>
 
       </div>
@@ -163,7 +163,7 @@
           
            
           <br>
-          <button type="button" id="button" onclick="location.href = 'body/about.php';">View More</button>
+          <button type="button" class="btns" onclick="location.href = 'body/about.php';">View More</button>
         </div>
 
       </div>
@@ -207,7 +207,7 @@
                 </span>
               </li>
               <div class="mt-5">
-                <button type="button" id="button" onclick="location.href = 'body/contact.php';">Message Us</button>
+                <button type="button" class="btns" onclick="location.href = 'body/contact.php';">Message Us</button>
               </div>
           </div>
         </div>
@@ -289,7 +289,7 @@
     </div>
     <br><br>
     <div class="footer_credit small mb-0" style="text-align: center; background: #272829 !important;">
-      <p style="color: #ADADAD !important; font-family: 'Inter', san-serif !important;">Copyright &copy; 2023. All rights Reserved.</p>
+      <p style="color: #ADADAD !important; font-family: 'Inter', san-serif !important;">Copyright &copy; <?php echo date('Y')?>. All rights Reserved.</p>
     </div>
   </footer>
   <script src="js/bootstrap.js"></script>
